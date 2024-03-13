@@ -2,7 +2,7 @@
 This is a simple Space Invader game implemented using VBA (Visual Basic for Applications) in Microsoft Excel. 
 The game involves controlling a player character at the bottom of the screen to shoot down the invading aliens 👽
 # How to Play
-##Controls:
+## Controls:
   * **Left Arrow Key**: Move the player character to the left.
   * **Right Arrow Key**: Move the player character to the right.
   * **Up Arrow Key**: Shoot bullets to destroy aliens.
